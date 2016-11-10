@@ -1,0 +1,10 @@
+[package]
+name = "libfastblank"
+version = "0.1.0"
+authors = ["Josef Rousek <josef.rousek@gmail.com>"]
+
+[dependencies]
+
+[lib]
+name = "fastblank"
+crate-type = ["dylib"]
